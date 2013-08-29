@@ -93,3 +93,6 @@ ObjectId.prototype.toString = function () {
            '0000'.substr(0, 4 - pid.length) + pid +
            '000000'.substr(0, 6 - increment.length) + increment;
 }
+
+module.exports = ObjectId;
+

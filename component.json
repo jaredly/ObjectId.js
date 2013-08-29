@@ -1,0 +1,14 @@
+{
+  "name": "ObjectId.js",
+  "repo": "jaredly/ObjectId.js",
+  "description": "Generate ObjectIds",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "ObjectId.js",
+  "scripts": [
+    "ObjectId.js"
+  ]
+}
