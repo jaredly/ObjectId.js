@@ -7,8 +7,8 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "ObjectId.js",
+  "main": "Objectid.js",
   "scripts": [
-    "ObjectId.js"
+    "Objectid.js"
   ]
 }
